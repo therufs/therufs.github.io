@@ -25,3 +25,6 @@ config/secrets.yml
 
 # More ignorables 
 /notes
+/myblog
+*.old
+/_site_old
