@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Two down..."
+date: 2014-06-03 23:17:18
+categories: academy
+---
+
+I've spent the evening watching notifications roll in as students submit their second homework and wishing I knew how to capture the way it feels to see what they come up with.  
+
+The assignment was pretty simple: the computer picks a number and the player tries to guess the number. No two people came up with the same code.  Moreover, no two people came up with the same game. "Guess a number" doesn't sound like my idea of a Super Fun Game, but [every](https://github.com/ernbrn/homework2/blob/master/homework2.rb#L1) [single](https://github.com/Ichus/Homework2/blob/master/game.rb#L19) [student's](https://github.com/jcward10/homework2/blob/master/mainhw2.rb#L53) [personality](https://github.com/maebeale/homework2/blob/master/game.rb#L25) shines through in what they created.  
