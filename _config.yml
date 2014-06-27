@@ -1,3 +1,4 @@
 name: Adventures in Code School # this is the blog title
 markdown: redcarpet
 pygments: true
+highlighter: pygments
