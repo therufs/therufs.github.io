@@ -83,11 +83,13 @@ class Topping
   attr_reader :type
 
   def crunchy
+    puts "To make crunchy topping:"
     puts "Combine oats, brown sugar, and butter to form a crumbly and delicious mess."
     @type = "crunchy"
   end
 
   def biscuit
+    puts "To make biscuit topping:"
     puts "Follow the directions on the Bisquick box.  I'm not even joking."
     @type = "biscuit"
   end
