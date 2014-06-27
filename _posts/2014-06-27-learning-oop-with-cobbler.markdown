@@ -57,7 +57,8 @@ class Filling
   end
 
   def cook
-    puts "Chop the " + @fruit.pluralize + " into bite-size pieces. Using berries? No chopping required."
+    puts "Chop the " + @fruit.pluralize + " into bite-size pieces."
+    puts "Using berries? No chopping required."
     puts "Put the fruit in a skillet and add sugar and lemon juice."
     add_seasoning
     puts "Bring to a boil, then simmer on low until the mixture is thick."
