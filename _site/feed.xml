@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <description></description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <title>Your awesome title</title>
+    <description>powered by tea</description>
+    <link>http://ceilingpunch.es/</link>
+    <atom:link href="http://ceilingpunch.es/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Learning OOP with Cobbler</title>
@@ -122,8 +122,8 @@
 &lt;p&gt;I could eat so much cobbler right now.&lt;/p&gt;
 </description>
         <pubDate>Fri, 27 Jun 2014 14:04:00 -0400</pubDate>
-        <link>/academy/2014/06/27/learning-oop-with-cobbler.html</link>
-        <guid isPermaLink="true">/academy/2014/06/27/learning-oop-with-cobbler.html</guid>
+        <link>http://ceilingpunch.es/academy/2014/06/27/learning-oop-with-cobbler/</link>
+        <guid isPermaLink="true">http://ceilingpunch.es/academy/2014/06/27/learning-oop-with-cobbler/</guid>
       </item>
     
       <item>
@@ -133,8 +133,8 @@
 &lt;p&gt;The assignment was pretty simple: the computer picks a number and the player tries to guess the number. No two people came up with the same code.  Moreover, no two people came up with the same game. “Guess a number” doesn’t sound like my idea of a Super Fun Game, but &lt;a href=&quot;https://github.com/ernbrn/homework2/blob/master/homework2.rb#L1&quot;&gt;every&lt;/a&gt; &lt;a href=&quot;https://github.com/Ichus/Homework2/blob/master/game.rb#L19&quot;&gt;single&lt;/a&gt; &lt;a href=&quot;https://github.com/jcward10/homework2/blob/master/mainhw2.rb#L53&quot;&gt;student’s&lt;/a&gt; &lt;a href=&quot;https://github.com/maebeale/homework2/blob/master/game.rb#L25&quot;&gt;personality&lt;/a&gt; shines through in what they created.  &lt;/p&gt;
 </description>
         <pubDate>Tue, 03 Jun 2014 19:17:18 -0400</pubDate>
-        <link>/academy/2014/06/03/two-down.html</link>
-        <guid isPermaLink="true">/academy/2014/06/03/two-down.html</guid>
+        <link>http://ceilingpunch.es/academy/2014/06/03/two-down/</link>
+        <guid isPermaLink="true">http://ceilingpunch.es/academy/2014/06/03/two-down/</guid>
       </item>
     
       <item>
@@ -148,8 +148,8 @@
 &lt;p&gt;We’re gonna have some great adventures this summer.  &lt;/p&gt;
 </description>
         <pubDate>Tue, 27 May 2014 17:41:06 -0400</pubDate>
-        <link>/academy/credits/2014/05/27/testing-testing.html</link>
-        <guid isPermaLink="true">/academy/credits/2014/05/27/testing-testing.html</guid>
+        <link>http://ceilingpunch.es/academy/credits/2014/05/27/testing-testing/</link>
+        <guid isPermaLink="true">http://ceilingpunch.es/academy/credits/2014/05/27/testing-testing/</guid>
       </item>
     
       <item>
@@ -157,8 +157,8 @@
         <description>&lt;p&gt;I AM THE FIRST POST!  Helloo!&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 May 2014 15:20:06 -0400</pubDate>
-        <link>/chat/2014/05/19/first-post.html</link>
-        <guid isPermaLink="true">/chat/2014/05/19/first-post.html</guid>
+        <link>http://ceilingpunch.es/chat/2014/05/19/first-post/</link>
+        <guid isPermaLink="true">http://ceilingpunch.es/chat/2014/05/19/first-post/</guid>
       </item>
     
       <item>
@@ -178,8 +178,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 </description>
         <pubDate>Mon, 19 May 2014 15:08:26 -0400</pubDate>
-        <link>/jekyll/update/2014/05/19/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">/jekyll/update/2014/05/19/welcome-to-jekyll.html</guid>
+        <link>http://ceilingpunch.es/jekyll/update/2014/05/19/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://ceilingpunch.es/jekyll/update/2014/05/19/welcome-to-jekyll/</guid>
       </item>
     
   </channel>
