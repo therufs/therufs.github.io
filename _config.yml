@@ -1,6 +1,6 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Adventures in Code 
+email: ruthan@ceilingpunch.es 
 description: "powered by tea"
 baseurl: ""  ## FIXME 
 url: "http://ceilingpunch.es"
@@ -8,6 +8,6 @@ url: "http://ceilingpunch.es"
 # Build settings
 markdown: kramdown
 permalink: pretty
-name: Adventures in Code School # this is the blog title
+name: Adventures in Code # this is the blog title
 pygments: true
 highlighter: pygments
