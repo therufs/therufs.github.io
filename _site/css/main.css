@@ -1,33 +1,17 @@
-<<<<<<< HEAD
 /* Base */
 /* ----------------------------------------------------------*/
 
-* {
-  margin: 0;
-  padding: 0;
-=======
 @import url("//hello.myfonts.net/count/2b4790");
-
 @font-face {font-family: 'StRydeRegular';src: url('webfonts/2B4790_0_0.eot');src: url('webfonts/2B4790_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2B4790_0_0.woff') format('woff'),url('webfonts/2B4790_0_0.ttf') format('truetype');}
-
-/*****************************************************************************/
-/*
-/* Common
-/*
-/*****************************************************************************/
-
-/* Global Reset */
 * {
   margin: 0;
   padding: 0;
   font-family: StRydeRegular; 
->>>>>>> f193f2dee15dee222a9183fabb8b3bd984467252
 }
 
 html, body { height: 100%; }
 
 body {
-<<<<<<< HEAD
   font-family: Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
@@ -261,7 +245,7 @@ a:visited { color: #205caa; }
 .post ol { margin-left: 1.35em; }
 
 .post pre code { border: none; }
-=======
+/*=======
   background-color: #FFF;
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
@@ -277,14 +261,14 @@ p { margin: 1em 0; }
 
 a         { color: #00a; }
 a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a:visited { color: #a0a; } */
 
 /*****************************************************************************/
 /*
 /* Home
 /*
 /*****************************************************************************/
-.posts {
+/* .posts {
   list-style-type: none;
   margin-bottom: 2em;
 }
@@ -299,12 +283,15 @@ a:visited { color: #a0a; }
   font-size: 80%;
 }
 
+*/
+
 /*****************************************************************************/
 /*
 /* Site
 /*
 /*****************************************************************************/
 
+/*
 .site {
   font-size: 115%;
   text-align: justify;
@@ -371,6 +358,8 @@ a:visited { color: #a0a; }
   border: 0;
 }
 
+*/
+
 /*****************************************************************************/
 /*
 /* Posts
@@ -378,6 +367,7 @@ a:visited { color: #a0a; }
 /*****************************************************************************/
 
 /* standard */
+/*
 .post pre {
   border: 1px solid #ddd;
   background-color: #eef;
@@ -397,14 +387,12 @@ a:visited { color: #a0a; }
 .post pre code {
   border: none;
 }
->>>>>>> f193f2dee15dee222a9183fabb8b3bd984467252
-
+*/
 /* terminal */
 .post pre.terminal {
   border: 1px solid #000;
   background-color: #333;
   color: #FFF;
-<<<<<<< HEAD
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
@@ -560,10 +548,6 @@ a:visited { color: #a0a; }
     margin: 0 0 15px; }
 
 }
-=======
-}
-
-.post pre.terminal code {
+/* .post pre.terminal code {
   background-color: #333;
-}
->>>>>>> f193f2dee15dee222a9183fabb8b3bd984467252
+} */
