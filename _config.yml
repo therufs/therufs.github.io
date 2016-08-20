@@ -9,5 +9,4 @@ url: "http://ceilingpunch.es"
 markdown: kramdown
 permalink: pretty
 name: Adventures in Code # this is the blog title
-pygments: true
-highlighter: pygments
+highlighter: rouge
