@@ -2,7 +2,7 @@
 layout: post
 title: "Windows: Postgres 9.5 install"
 date: 2016-08-20 20:08:06
-categories: intro_to_SQL, GDIRDU
+categories: intro_to_SQL GDIRDU
 ---
 
 #### Postgres 9.5 install for GDIRDU Intro to SQL
