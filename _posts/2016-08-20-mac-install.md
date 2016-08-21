@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Mac install"
+title: "Mac: Postgres 9.5 install"
 date: 2016-08-20 19:03:02
-categories: Intro to SQL
+categories: Intro to SQL, GDIRDU
 ---
 
 #### Postgres 9.5 install for GDIRDU Intro to SQL
@@ -14,12 +14,10 @@ categories: Intro to SQL
 
 You should see something like:
 
-
     $ '/Applications/Postgres.app/Contents/Versions/9.5/bin'/psql -p5432
     psql (9.5.4)
     Type "help" for help.
     
     ruthan=#
-
 
 You may type `\q` to quit.
