@@ -2,7 +2,7 @@
 layout: post
 title: "Mac: Postgres 9.5 install"
 date: 2016-08-20 19:03:02
-categories: Intro to SQL, GDIRDU
+categories: intro_to_SQL, GDIRDU
 ---
 
 #### Postgres 9.5 install for GDIRDU Intro to SQL
