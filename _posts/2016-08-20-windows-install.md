@@ -15,6 +15,7 @@ categories: Intro to SQL, GDIRDU
 * You will have the option to launch Stack Builder after install. You don't need to do this.
 * Find "SQL Shell (psql)" in the Start menu or by searching for it.
 * Click enter to accept defaults for Server, Database, Port, and Username. When you see the prompt `Password for user postgres`, enter the superuser password.
+
 Once you have entered the password, you should see something like:
 
     psql (9.5.4)
