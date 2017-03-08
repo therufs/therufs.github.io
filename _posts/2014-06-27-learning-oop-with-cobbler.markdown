@@ -8,7 +8,6 @@ categories: academy
 While talking to a student today, I said "A class definition is like a recipe; you have to actually make the recipe before you have any cobbler."
 
 {% highlight ruby %}
-
 # cobbler.rb
 
 class Cobbler
@@ -22,9 +21,9 @@ class Cobbler
 
   def assemble
     @pan << @filling
-    puts "Filling goes into the pan."
+    puts "Pour filling into the pan."
     @pan << @topping
-    puts "Topping goes on top."
+    puts "Distribute topping evenly on top."
     if @topping.type == "biscuit"
       @topping.brush_with_milk
     end
@@ -44,7 +43,9 @@ class Cobbler
     puts "The " + @filling.fruit + " cobbler is DELICIOUS."
   end
 end
+{% endhighlight %}
 
+{% highlight ruby %}
 # filling.rb
 
 require 'active_support/inflector'
@@ -76,7 +77,9 @@ class Filling
     end
   end
 end
+{% endhighlight %}
 
+{% highlight ruby %}
 # topping.rb
 
 class Topping
@@ -98,8 +101,9 @@ class Topping
     puts "Brush a little milk on top to give the biscuity goodness a nice sheen."
   end
 end
+{% endhighlight %}
 
-
+{% highlight ruby %}
 # make_cobbler.rb
 require 'cobbler'
 require 'filling'
@@ -117,7 +121,6 @@ peachcobbler.assemble
 peachcobbler.bake(3, 400)
 
 peachcobbler.eat
-
 {% endhighlight %}
 
 I could eat so much cobbler right now.
