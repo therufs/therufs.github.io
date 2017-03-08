@@ -1,9 +1,7 @@
 # Site settings
 title: Adventures in Code 
-email: ruthan@ceilingpunch.es 
 description: "powered by tea"
 baseurl: ""  ## FIXME 
-url: "http://ceilingpunch.es"
 
 # Build settings
 markdown: kramdown
